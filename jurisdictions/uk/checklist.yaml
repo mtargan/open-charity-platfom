@@ -1,0 +1,74 @@
+# UK (England and Wales focus). DRAFT: needs practitioner verification. Scotland and Northern Ireland differ.
+jurisdiction: gb
+version: 0.1.0
+items:
+  - id: choose-legal-structure
+    category: governance
+    title: Choose a legal structure
+    description: Options include unincorporated association, trust, charitable company and CIO. Affects liability and registration route.
+    source: https://www.gov.uk/guidance/charity-types-how-to-choose-a-legal-structure
+    last_verified: null
+    status: draft
+  - id: charitable-purposes-public-benefit
+    category: governance
+    title: Confirm charitable purposes and public benefit
+    description: Aims must be exclusively charitable and provide public benefit.
+    source: https://www.gov.uk/government/organisations/charity-commission
+    last_verified: null
+    status: draft
+  - id: governing-document-trustees
+    category: governance
+    title: Adopt a governing document and appoint trustees
+    description: Trustees must be eligible and understand their duties.
+    source: https://www.gov.uk/guidance/charity-trustee-whats-involved
+    last_verified: null
+    status: draft
+  - id: register-with-charity-commission
+    category: registration
+    title: Register with the Charity Commission if required
+    description: Registration is generally required above an income threshold, and for CIOs. Check current threshold.
+    source: https://www.gov.uk/guidance/setting-up-a-charity-register-your-charity
+    last_verified: null
+    status: draft
+  - id: data-protection-compliance
+    category: data-protection
+    title: Comply with UK GDPR and the Data Protection Act 2018
+    description: Lawful basis, privacy notice, security, retention, data subject rights, breach reporting. Check whether an ICO data protection fee applies.
+    source: https://ico.org.uk/for-organisations/
+    last_verified: null
+    status: draft
+  - id: dpia-special-category
+    category: data-protection
+    title: Complete a DPIA when processing special-category or vulnerable-person data
+    description: Required for high-risk processing; likely relevant to case-tracking.
+    source: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/data-protection-impact-assessments-dpias/
+    last_verified: null
+    status: draft
+  - id: safeguarding-policy
+    category: safeguarding
+    title: Put safeguarding policies and procedures in place
+    description: Includes recruitment checks and incident reporting where working with children or adults at risk.
+    source: https://www.gov.uk/guidance/safeguarding-duties-for-charity-trustees
+    last_verified: null
+    status: draft
+  - id: fundraising-standards
+    category: fundraising
+    title: Follow fundraising rules and the Code of Fundraising Practice
+    description: Applies to public fundraising; check registration with the Fundraising Regulator.
+    source: https://www.fundraisingregulator.org.uk/
+    last_verified: null
+    status: draft
+  - id: gift-aid
+    category: finance
+    title: Register for Gift Aid if claiming it
+    description: Requires HMRC recognition and donor declaration records.
+    source: https://www.gov.uk/claim-gift-aid
+    last_verified: null
+    status: draft
+  - id: accounts-and-annual-return
+    category: finance
+    title: Keep accounts and file annual returns
+    description: Requirements depend on income and structure.
+    source: https://www.gov.uk/guidance/charity-reporting-and-accounting-the-essentials
+    last_verified: null
+    status: draft
